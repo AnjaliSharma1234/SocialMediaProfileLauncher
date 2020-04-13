@@ -6,4 +6,4 @@ This is motivated by [Traversy Media tutorial on Google Chrome Extention](https:
 
 #### Screenshot of the Chrome Extention
 
-![Screenshot of the Chrome Extention](https://drive.google.com/open?id=1XfYp8OGUMQ_v-s95z5q5QDGoSArhdtBo)
+![](https://drive.google.com/open?id=1XfYp8OGUMQ_v-s95z5q5QDGoSArhdtBo)
