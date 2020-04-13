@@ -1,2 +1,5 @@
-# SocialMediaProfileLauncher
-A simple Chrome Extension to any all your social media profiles in just one click 
+#### Social Media Profile Launcher
+
+A simple Chrome Extension for combining all the social media profiles at one place.
+
+This is motivated by [Traversy Media tutorial on Google Chrome Extention](https://www.youtube.com/watch?v=wHZCYi1K664).
