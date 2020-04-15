@@ -1,18 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Anjali Sharma Quick Launcher</title>
-    <link
-      href="https://fonts.googleapis.com/css?family=Open+Sans"
-      rel="stylesheet"
-      type="text/css"
-    />
-    <link
-      href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
-      rel="stylesheet"
-      integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN"
-      crossorigin="anonymous"
-    />
+    <title>Social Profile Quick Launcher</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"/>
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous"/>
     <style>
       /* Modal Structure */
 
@@ -89,47 +80,59 @@
         font-size: 40px;
         color: #3c797b;
       }
+      .btn{
+          padding: 5px;
+          background-color: antiquewhite;
+          border: 1px solid antiquewhite;
+          box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.3);
+      }
     </style>
-    <script src="popup.js"></script>
+    
   </head>
 
   <body>
-    <div class="modal-header">
-      <h1 class="logo">
-        <img class="logo-icon" src="images/anjali-sharma.png" />Anjali Sharma Launcher
-      </h1>
-    </div>
+    <center>
+      <div class="modal-header">
+        <h1 class="logo">
+          Social Links Launcher
+        </h1>
+      </div>
+    </center>
     <div class="modal-content">
-      <p>Easily Access Anjali Sharma's Social Media Profiles</p>
+      <p id="title_text"><span id="name"></span>Social Media Profiles</p>
     </div>
     <div class="modal-icons">
       <div class="flex-container">
         <div class="flex">
-          <a href="https://anjalisharma.tech/" target="_blank">
+          <a id="website_link" href="#!" target="_blank">
             <i class="fa fa-globe" style="color:#3c797b "></i>
           </a>
         </div>
          <div class="flex">
-          <a href="https://www.linkedin.com/in/anjalisharmaaa/" target="_blank">
+          <a id="linkedin_link" href="#!" target="_blank">
             <i class="fa fa-linkedin" style="color:#3c797b "></i>
           </a>
         </div>
         <div class="flex">
-          <a href="https://medium.com/@anjalisharmaaa" target="_blank">
+          <a id="medium_link" href="#!" target="_blank">
             <i class="fa fa-medium" style="color:#3c797b "></i>
           </a>
         </div>
         <div class="flex">
-          <a href="https://twitter.com/AnjaliiSharmaaa" target="_blank">
+          <a id="twitter_link" href="#!" target="_blank">
             <i class="fa fa-twitter" style="color:#3c797b "></i>
           </a>
         </div>
         <div class="flex">
-          <a href="https://github.com/AnjaliSharma1234" target="_blank">
+          <a id="github_link" href="#!" target="_blank">
             <i class="fa fa-github" style="color:#3c797b "></i>
           </a>
         </div>
       </div>
     </div>
+    <br>
+    <center><a class="btn" href="edit.html">Edit</a></center>
+    <br>
+    <script src="popup.js"></script>
   </body>
 </html>
