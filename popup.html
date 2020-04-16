@@ -86,6 +86,15 @@
           border: 1px solid antiquewhite;
           box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.3);
       }
+      .flex a div{
+        visibility: hidden;
+      }
+      .flex:hover{
+        cursor: pointer;
+      }
+      .flex:hover div{
+        visibility: visible;
+      }
     </style>
     
   </head>
@@ -106,26 +115,31 @@
         <div class="flex">
           <a id="website_link" href="#!" target="_blank">
             <i class="fa fa-globe" style="color:#3c797b "></i>
+            <div>Website</div>
           </a>
         </div>
          <div class="flex">
           <a id="linkedin_link" href="#!" target="_blank">
             <i class="fa fa-linkedin" style="color:#3c797b "></i>
+            <div>Linked</div>
           </a>
         </div>
         <div class="flex">
           <a id="medium_link" href="#!" target="_blank">
             <i class="fa fa-medium" style="color:#3c797b "></i>
+            <div>Medium</div>
           </a>
         </div>
         <div class="flex">
           <a id="twitter_link" href="#!" target="_blank">
             <i class="fa fa-twitter" style="color:#3c797b "></i>
+            <div>Twitter</div>
           </a>
         </div>
         <div class="flex">
           <a id="github_link" href="#!" target="_blank">
             <i class="fa fa-github" style="color:#3c797b "></i>
+            <div>GitHub</div>
           </a>
         </div>
       </div>
