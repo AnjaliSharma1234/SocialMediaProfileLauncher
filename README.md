@@ -14,7 +14,7 @@ This is motivated by [Traversy Media tutorial on Google Chrome Extention](https:
 
 For my blog post tutorial on "How to build and publish a Chrome Extension in 10 minutes — Browser Extension Explained" [click here](https://medium.com/mobile-web-dev/how-to-build-and-publish-a-chrome-extension-in-10-minutes-browser-extension-explained-6caa17df46f).
 
-### Admin
+### Project Admin
 
 [![Relative date](https://img.shields.io/date/1577392258?color=important&label=started&logo=github)](https://github.com/AnjaliSharma1234/) [![Maintenance](https://img.shields.io/maintenance/yes/2020?color=green&logo=github)](https://github.com/AnjaliSharma1234/)
 
