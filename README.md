@@ -11,7 +11,7 @@ This is motivated by [Traversy Media tutorial on Google Chrome Extention](https:
 ![](images/Screenshot.png)
 
 ### Tutorial Blog Post
-For my blog post tutorial on "How to build and publish a Chrome Extension in 10 minutes — Browser Extension Explained" [click here](https://medium.com/mobile-web-dev/how-to-build-and-publish-a-chrome-extension-in-10-minutes-browser-extension-explained-6caa17df46f).
+For my Blog post tutorial on "How to build and publish a Chrome Extension in 10 minutes — Browser Extension Explained" [click here](https://medium.com/mobile-web-dev/how-to-build-and-publish-a-chrome-extension-in-10-minutes-browser-extension-explained-6caa17df46f).
 
 ### Project Admin
 
